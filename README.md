@@ -9,6 +9,7 @@
 
 
 ***2020-10-11：我们的第二次任务***
+
 基于各自设计的业务用例，各自确定了业务对象（business actor、business worker、business entity）。并编写了现状业务序列图和改进后的业务序列图
 
 
